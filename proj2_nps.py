@@ -1,8 +1,3 @@
-#################################
-##### Name: Shiyu Guo    ########
-##### Uniqname: shiyuguo ########
-#################################
-
 from bs4 import BeautifulSoup
 import requests
 import time
